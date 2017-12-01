@@ -25,7 +25,6 @@ int main()
     {
         s[i]=10-i;
     }
-	//cout << sizeof(s) << endl;
 	cout << "before sort: ";
 	for (int i = 0; i<10; i++)
 	{
